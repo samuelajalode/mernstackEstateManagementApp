@@ -309,10 +309,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Aayush Vaghela - [GitHub](https://github.com/AAYUSH412)
 
-Project Link: [https://github.com/AAYUSH412/Real-Estate-Website](https://github.com/AAYUSH412/Real-Estate-Website)
 
+Project Link: 
 ---
 
 <div align="center">
